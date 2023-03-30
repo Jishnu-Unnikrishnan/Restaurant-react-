@@ -1,0 +1,44 @@
+                                       React JS - Js Libarary for Front end development
+
+                            - create project - npx create-react-app project-name
+                            - Features of reactjs
+                                * virtual Dom 
+                                * component based  approach
+                                * JSX (JavaScript XML Language-Combination Of html and js)
+                                * faster,Scalable,flexible
+                            -     Angular          vs          React          vs          Vue
+                              1. FrameWork                     Libarary                   FrameWork
+                              2. 2016                          2013                       2014
+                              3. typescript                    JavaScript                 JavaScript
+                              4. Real DOM                      Virtual DOM                Virtual DOM
+                              5. BiDirectional binding         UniDirectional binding     BiDirectional binding
+
+                            - Event Handling     
+                            - create a component - create a js file where its name should starts with capital letter 
+                               -Two types
+                                 1.Class based component
+                                    *stateful componets
+                                2.function based component
+                                    *State Less components
+                            - State:piece of data that can share between componets
+                            - Basic hooks in React
+                              -useEffect
+                              -useState
+                            -State is A variable that store data 
+                            -Routing in React 
+                             -install react-router-dom
+                               -Route for set up path component
+                               -Routes for Holding all Route tag
+                               -Browserroute for holing routes
+                            -Axios - used to call http request in react   
+
+                            -props Drilling
+                              -Prop drilling is basically a situation when the same data is being sent at almost every level due to requirements in the final level 
+                            -State management system
+                              -REDUX
+                                  -used to avoid props drilling
+                                  -working
+                                     -install redux,react-redux,redux-thunk
+                                     -create store.js file in src folder
+                                     -provide store to root component(index.js)
+                            
